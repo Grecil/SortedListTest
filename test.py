@@ -3,7 +3,6 @@ import random
 import time
 from sortedcontainers import SortedList
 from typing import Generic, Iterable, Iterator, List, Tuple, TypeVar, Optional
-import math
 from bisect import bisect_left, bisect_right
 
 T = TypeVar("T")
